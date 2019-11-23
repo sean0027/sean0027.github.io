@@ -5,6 +5,8 @@ subtitle: ... or not to be?
 tags: [books, shakespeare, test]
 ---
 
+https://medium.com/@seanmcmahon_80916/winter-travel-delays-inevitable-or-a-function-of-where-you-live-8d6ff6e14a79
+
 To be, or not to be--that is the question:
 Whether 'tis nobler in the mind to suffer
 The slings and arrows of outrageous fortune
