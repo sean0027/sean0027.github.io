@@ -1,7 +1,7 @@
 ---
 layout: post
-title: To be
-subtitle: ... or not to be?
+title: Winter Travel Delays
+subtitle: Inevitable or a Function of Where You Live?
 tags: [books, shakespeare, test]
 ---
 
